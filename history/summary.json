@@ -40,19 +40,19 @@
     "url": "https://woodbine.nyc",
     "icon": "https://icons.duckduckgo.com/ip3/woodbine.nyc.ico",
     "slug": "woodbine-nyc",
-    "status": "down",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
+    "time": 204,
+    "timeDay": 204,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 26
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://basement.woodbine.nyc",
     "icon": "https://icons.duckduckgo.com/ip3/basement.woodbine.nyc.ico",
     "slug": "basement-woodbine-nyc",
-    "status": "down",
-    "uptime": "9.03%",
-    "uptimeDay": "9.03%",
-    "uptimeWeek": "9.03%",
-    "uptimeMonth": "9.03%",
-    "uptimeYear": "9.03%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 26
     }
   }
 ]
