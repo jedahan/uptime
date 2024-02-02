@@ -6,11 +6,11 @@ status-website: # Status website (optional)
   name: uptime # Status website title
   
 sites:
-  - name: jedahan.com
-    url: https://jedahan.com
+  - name: basement.woodbine.nyc
+    url: https://basement.woodbine.nyc
   - name: jonathan.is
     url: https://jonathan.is
   - name: woodbine.nyc
     url: https://woodbine.nyc
-  - name: basement.woodbine.nyc
-    url: https://basement.woodbine.nyc
+  - name: :sunny: solar protocol
+    url: https://solarprotocol.net
